@@ -9,4 +9,7 @@ class PagesController < ApplicationController
   end
   def imjustjoshn
   end
+
+  def bcllier21
+  end
 end
