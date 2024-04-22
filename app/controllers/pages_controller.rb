@@ -1,7 +1,8 @@
 class PagesController < ApplicationController
   def index
   end
-  def username
-
+  def deviaze
+  end
+  def imjustjoshn
   end
 end
