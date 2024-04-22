@@ -5,4 +5,7 @@ class PagesController < ApplicationController
   def cameron0904
     render :cameron0904
   end
+
+  def imjustjoshn
+  end
 end
